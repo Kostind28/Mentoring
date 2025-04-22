@@ -31,7 +31,6 @@ fun main() {
     )
 
     val word = readLine()?.uppercase()
-    val wcode = word?.map
 
 
 }
